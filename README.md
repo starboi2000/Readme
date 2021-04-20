@@ -4,8 +4,8 @@
 
 - 🔭 Engineering Student 🙂
 - 🌱 Data Science and Machine Learning enthusiastic 
-- 👯 Looking for opportunities in that domain
-- 🥅 Goals: Always to update myself in this domain
+- 👯 Looking for opportunities in this domain
+- 🥅 Goals:  vision to see myself working professionally in this field
 - ⚡ Fun fact: You just have a Udemy certificate and you call yourself a data scientist! Dude you are funny 👀
 
 ### Connect with me:
