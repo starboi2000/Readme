@@ -2,7 +2,7 @@
 
 ## Did you say Data Science ??
 
-- 🔭 Engineering Student 🙂 [Become A VS Code SuperHero!][course]!
+- 🔭 Engineering Student 🙂
 - 🌱 Data Science and Machine Learning enthusiastic 
 - 👯 Looking for opportunities in that domain
 - 🥅 Goals: Always to update myself in this domain
